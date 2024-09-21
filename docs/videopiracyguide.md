@@ -7,6 +7,7 @@
 # ► Streaming Sites
 
 ## ▷ Multi Server
+everythingmoe
 
 * ⭐ **[movie-web](https://erynith.github.io/movie-web-instances/)**, [2](https://docs.undi.rest/instances) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Add Sources](https://pastebin.com/vXzVCEda) / [Docs](https://docs.undi.rest/)
 * ⭐ **[Braflix](https://www.braflix.st/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/dexBcDVdEk)
